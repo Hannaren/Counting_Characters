@@ -1,0 +1,13 @@
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.exe
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.deps.json
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.runtimeconfig.json
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.runtimeconfig.dev.json
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.dll
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\bin\Debug\netcoreapp3.1\Counting_Characters.pdb
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.csprojAssemblyReference.cache
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.AssemblyInfoInputs.cache
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.AssemblyInfo.cs
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.csproj.CoreCompileInputs.cache
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.dll
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.pdb
+C:\Users\sumpt\Desktop\csharp-practice\class2\Counting_Characters\Counting_Characters\obj\Debug\netcoreapp3.1\Counting_Characters.genruntimeconfig.cache

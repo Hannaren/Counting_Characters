@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Counting_Characters/1.0.0": {
+        "runtime": {
+          "Counting_Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Counting_Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
