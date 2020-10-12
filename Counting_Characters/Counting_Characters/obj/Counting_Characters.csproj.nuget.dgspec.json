@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting Characters\\Counting Characters\\Counting_Characters.csproj": {}
+    "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting_Characters\\Counting_Characters\\Counting_Characters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting Characters\\Counting Characters\\Counting_Characters.csproj": {
+    "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting_Characters\\Counting_Characters\\Counting_Characters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting Characters\\Counting Characters\\Counting_Characters.csproj",
+        "projectUniqueName": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting_Characters\\Counting_Characters\\Counting_Characters.csproj",
         "projectName": "Counting_Characters",
-        "projectPath": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting Characters\\Counting Characters\\Counting_Characters.csproj",
+        "projectPath": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting_Characters\\Counting_Characters\\Counting_Characters.csproj",
         "packagesPath": "C:\\Users\\sumpt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting Characters\\Counting Characters\\obj\\",
+        "outputPath": "C:\\Users\\sumpt\\Desktop\\csharp-practice\\class2\\Counting_Characters\\Counting_Characters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sumpt\\AppData\\Roaming\\NuGet\\NuGet.Config",
